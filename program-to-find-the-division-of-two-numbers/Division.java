@@ -1,6 +1,6 @@
 //Program to find the division of two numbers
 import java.util.*;
-public class Main
+public class Division
 {
 	public static void main(String[] args) 
 	{
