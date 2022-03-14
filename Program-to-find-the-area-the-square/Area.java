@@ -1,11 +1,11 @@
 //Program to find the area of square
 import java.util.*;
-public class Main
+public class Area
 {
 	public static void main(String[] args) 
 	{
-	    Scanner in = new Scanner(System.in);
-	    int x,area=0;
+	    	Scanner in = new Scanner(System.in);
+	    	int x,area=0;
 		System.out.print("Enter the side of the square : ");
 		x=in.nextInt();
 		area=x*x;
