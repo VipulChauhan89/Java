@@ -4,8 +4,8 @@ public class Area
 {
 	public static void main(String[] args) 
 	{
-	    Scanner in = new Scanner(System.in);
-	    double base,height,area=0;
+	    	Scanner in = new Scanner(System.in);
+	   	double base,height,area=0;
 		System.out.print("Enter the height of the triangle : ");
 		height=in.nextInt();
 		System.out.print("Enter the base of the triangle : ");
