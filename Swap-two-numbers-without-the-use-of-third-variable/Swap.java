@@ -1,5 +1,5 @@
 /*
-  program to swapp two number without the use of third variable
+  program to swap two number without the use of third variable
 */
 import java.util.*;
 public class Swap 
@@ -7,7 +7,7 @@ public class Swap
     public static void main(String args[])
     {
         Scanner in=new Scanner(System.in);
-        int a,b,temp;
+        int a,b;
         System.out.print("Enter the value in a :");
         a=in.nextInt();
         System.out.print("Enter the value in b :");
