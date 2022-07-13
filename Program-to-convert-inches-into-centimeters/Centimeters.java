@@ -11,6 +11,6 @@ public class Centimeters
         System.out.print("Enter the Inches to convert it into Centimeter : ");
         inch=in.nextDouble();
         cm=2.54*inch;
-        Systm.out.prinln("Centimeters = "+cm);
+        System.out.prinln("Centimeters = "+cm);
     }
 }
