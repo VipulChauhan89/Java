@@ -2,7 +2,7 @@
   Program to convert inches into centimeters.
 */
 import java.util.*;
-public class centimeters
+public class Centimeters
 {
     public static void main(String args[])
     {
